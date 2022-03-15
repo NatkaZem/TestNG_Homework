@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/projects/internship/TestNG_Homework">
+        <classes>
+            <class name="Test_1"/>
+            <class name="Test_2"/>
+            <class name="Test_3"/>
+        </classes>
+    </test>
+
+    <test name="Дополнительный тест">
+        <classes>
+            <class name="Test_4">
+
+            </class>
+        </classes>
+    </test>
+</suite>
