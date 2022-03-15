@@ -12,7 +12,6 @@ public class Test_3 {
         System.out.println("Test");
         new Test_1().test_1();
         new Test_2().test_5();
-
         new Test_2().test_7();
         new Test_2().test_8();
     }

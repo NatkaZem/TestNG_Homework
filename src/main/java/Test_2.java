@@ -12,7 +12,6 @@ public class Test_2 {
         System.out.println("AfterMethod");
     }
 
-
     @AfterMethod
     public void test_6() {
         System.out.println("AfterMethod");
