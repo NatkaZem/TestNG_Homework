@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="D:/projects/internship/TestNG_Homework">
+    <test name="Основной тест">
         <classes>
             <class name="Test_1"/>
             <class name="Test_2"/>
@@ -12,9 +12,7 @@
 
     <test name="Дополнительный тест">
         <classes>
-            <class name="Test_4">
-
-            </class>
+            <class name="Test_4"/>
         </classes>
     </test>
 </suite>
